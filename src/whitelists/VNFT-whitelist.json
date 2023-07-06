@@ -1,0 +1,12 @@
+{
+  "0x0e06D2876F1451B07aeb4D6B3b5e32C10884C197": {
+    "mintPrice": 0.01,
+    "maxMint": 2,
+    "signature": ""
+  },
+  "0x5F61ae0C281ae352E3a7Fbf6acdFA94dBE8C8426": {
+    "mintPrice": 0.015,
+    "maxMint": 1,
+    "signature": ""
+  }
+}

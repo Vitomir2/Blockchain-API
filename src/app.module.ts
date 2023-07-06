@@ -6,6 +6,7 @@ import { ScheduleModule } from '@nestjs/schedule';
 import entities from './typeorm';
 import { UsersModule } from './users/users.module';
 import { EventsModule } from './events/events.module';
+import { MintsModule } from './mints/mints.module';
 
 @Module({
   imports: [
@@ -27,6 +28,7 @@ import { EventsModule } from './events/events.module';
     }),
     UsersModule,
     EventsModule,
+    MintsModule,
   ],
   controllers: [],
   providers: [],
