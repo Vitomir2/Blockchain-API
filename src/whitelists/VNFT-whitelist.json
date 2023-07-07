@@ -1,12 +1,26 @@
 {
-  "0x0e06D2876F1451B07aeb4D6B3b5e32C10884C197": {
+  "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4": {
     "mintPrice": 0.01,
     "maxMint": 2,
-    "signature": ""
+    "minter": "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4",
+    "signature": "0xf99cbf318130468f3d21f5ba0fbfb9dad1137315a4061d451da2e719a3d6026a50483a0f62db335f455d2160d04214833f9a2c1d91ddec771d106330abd3daa21b"
   },
-  "0x5F61ae0C281ae352E3a7Fbf6acdFA94dBE8C8426": {
+  "0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2": {
     "mintPrice": 0.015,
     "maxMint": 1,
-    "signature": ""
+    "minter": "0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2",
+    "signature": "0xc8fb305bd502bbc215a753c1b2868d556f5c3c0cb41efad813047caf031120a84a7a0844c88b82f6eb7aab15f8374884bbbd369f31042bada04e6ab34afe46b01c"
+  },
+  "0x4B20993Bc481177ec7E8f571ceCaE8A9e22C02db": {
+    "mintPrice": 0.01,
+    "maxMint": 3,
+    "minter": "0x4B20993Bc481177ec7E8f571ceCaE8A9e22C02db",
+    "signature": "0xcbb2813c8ab3b5fa5e5cf92907fa50e095fd257c671f8cfddf1608e9d41de74715f78b7e262f3be6c60881f1241b4dd595e90ba4c7a70ba38f441454e5e052061b"
+  },
+  "0x78731D3Ca6b7E34aC0F824c42a7cC18A495cabaB": {
+    "mintPrice": 0.015,
+    "maxMint": 10,
+    "minter": "0x78731D3Ca6b7E34aC0F824c42a7cC18A495cabaB",
+    "signature": "0x1262724c2a811f7462befb19d1973013c2f5a9d1228dafb93ea0434799b7faf8030f9a0ec3d417a15e9e3f6bbe2cddccba284695768f019d17b6d51780e9500d1b"
   }
 }
